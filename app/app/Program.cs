@@ -19,6 +19,7 @@ namespace app
             if (valor.Contains("1"))
             {
                 Console.WriteLine("Buscaminas");
+                Console.WriteLine("yeeeeeeeeeeeahhhh aquí va el buscaminas!");
             }
             else
             {
