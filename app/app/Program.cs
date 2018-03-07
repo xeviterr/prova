@@ -23,6 +23,7 @@ namespace app
             else
             {
                 Console.WriteLine("Solitario");
+                Console.WriteLine("Ara estic jugant al solitàrio");
             }
         }
     }
