@@ -20,6 +20,7 @@ namespace app
             {
                 Console.WriteLine("Buscaminas");
                 Console.WriteLine("yeeeeeeeeeeeahhhh aquí va el buscaminas!");
+                Console.WriteLine("yeeeeeeeeeeeahhhh aquí va el buscaminas!");
             }
             else
             {
