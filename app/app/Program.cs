@@ -11,8 +11,19 @@ namespace app
         static void Main(string[] args)
         {
             Console.WriteLine("JOCS\n__________________");
-            Console.WriteLine("Buscaminas");
-            Console.WriteLine("Solitario");
+            Console.WriteLine("1. Buscaminas");
+            Console.WriteLine("2. Solitario");
+            Console.WriteLine("Selecciona una opció:");
+
+            string valor = Console.ReadLine();
+            if (valor.Contains("1"))
+            {
+                Console.WriteLine("Buscaminas");
+            }
+            else
+            {
+                Console.WriteLine("Solitario");
+            }
         }
     }
 }
