@@ -26,6 +26,7 @@ namespace app
             {
                 Console.WriteLine("Solitario");
                 Console.WriteLine("Ara estic jugant al solitàrio");
+                Console.WriteLine("Canvi colega2");
             }
         }
     }
