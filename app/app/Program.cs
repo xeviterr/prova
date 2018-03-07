@@ -18,7 +18,7 @@ namespace app
             string valor = Console.ReadLine();
             if (valor.Contains("1"))
             {
-                Console.WriteLine("Buscaminas");
+                Console.WriteLine("Buscaminas, aquesta és la bona");
                 Console.WriteLine("yeeeeeeeeeeeahhhh aquí va el buscaminas!");
                 Console.WriteLine("yeeeeeeeeeeeahhhh aquí va el buscaminas!");
             }
